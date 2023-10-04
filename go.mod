@@ -1,4 +1,4 @@
-module github.com/nizigama/the-app
+module github.com/nizigama/app
 
 go 1.21.1
 
